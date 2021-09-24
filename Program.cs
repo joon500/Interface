@@ -12,7 +12,7 @@ namespace My4
 
         public class MyList<T> : IMyList<T>
         {
-            public int ff;
+           
             public void Add2(T a)
             {
                 //add same
