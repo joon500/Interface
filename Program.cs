@@ -15,7 +15,7 @@ namespace My4
            
             public void Add2(T a)
             {
-                //add same
+                //add some
             }
         }
         static void Main(string[] args)
